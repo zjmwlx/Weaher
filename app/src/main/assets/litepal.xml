@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="weather" />
+    <version value="1" />
+    <list>
+        <mapping calss="com.zjm.weaher.db.Provincez" />
+        <mapping calss="com.zjm.weaher.db.County" />
+        <mapping calss="com.zjm.weaher.db.City" />
+    </list>
+</litepal>

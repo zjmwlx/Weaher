@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Weaher</string>
+    <string name="title_activity_address">AddressActivity</string>
+</resources>
